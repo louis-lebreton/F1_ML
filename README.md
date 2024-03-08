@@ -5,18 +5,17 @@
 </p>
 
 ### Project goal : 
-The aim was to analyze, do clustering, dimension reduction and prediction from car and dog data. To do this, machine learning methods were used.
+The aim was to forecast the winner of each race of the season in Formula 1. To do this, machine learning methods were used.
 
 ### Project steps :
 - Data analysis
-- ML model selection : Logistic regression, Quadratic discriminant analysis, Regression tree, Random forest
-- PCA (Principal component analysis)
-- K-Means
-- Hierarchical clustering
-- Multiple correspondence analysis
+- Feature Engineering
+- ML model : Regression tree, XGBoost
+- GridSearchCV
+- Optuna : automatic hyperparameter optimization
 
 ### Libraries used :
-sklearn, pandas, seaborn, FactoMineR
+optuna, xgboost, sklearn, pandas
 
 
 
