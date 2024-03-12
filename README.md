@@ -1,7 +1,7 @@
 # Machine learning project on Formula One data
 
 <p align="center">
-<img src="optuna_logo.jpg" alt="corr_circle" width="450"/>
+<img src="optuna_logo.jpg" alt="corr_circle" width="400"/>
 </p>
 
 ### Project goal
